@@ -11,6 +11,7 @@
   inputs.src-omnilog-master.ref   = "refs/heads/master";
   inputs.src-omnilog-master.owner = "nim-appkit";
   inputs.src-omnilog-master.repo  = "omnilog";
+  inputs.src-omnilog-master.dir   = "";
   inputs.src-omnilog-master.type  = "github";
   
   inputs."values".owner = "nim-nix-pkgs";
