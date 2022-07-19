@@ -46,11 +46,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658018853,
-        "narHash": "sha256-/AXeJ1iw3C4fnTtJBADR7GA2NE8tJg6nY9zoBHV/kag=",
+        "lastModified": 1658032759,
+        "narHash": "sha256-AyJHVvdujxJcwq7C6yGsN45RxRz43cqsUt9k49rh+ZE=",
         "owner": "nim-nix-pkgs",
         "repo": "omnilog",
-        "rev": "8a4bd73ab5bfe450ab12afe256a9909f122fefe5",
+        "rev": "d5c08fdccaa7e03f90d48273baca0272ff5a7311",
         "type": "github"
       },
       "original": {
@@ -116,11 +116,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1658018353,
-        "narHash": "sha256-0HLZrbXlRopnp3Ozz+DFiDo91iAxRG3UxO8jOcATCd0=",
+        "lastModified": 1658032311,
+        "narHash": "sha256-W86xDkpW74RMr97qGIN/a4KDTonyrXVHH4tV0qZSLCE=",
         "owner": "nim-nix-pkgs",
         "repo": "values",
-        "rev": "6a409de897f54952f12739a7a9009fd38aeae0a7",
+        "rev": "c049fb8010fc89cf0bd64dc5b3f83f74287c8583",
         "type": "github"
       },
       "original": {
